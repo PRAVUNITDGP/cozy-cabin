@@ -87,7 +87,7 @@ function Row({children}) {
 }
 
 function Body({data, render}) {
-  if(!data.length)
+  if(!data?.length)
     return <Empty>No Data to show at this moment</Empty>
   console.log("Data is " + data);
   return <StyledBody>
@@ -99,5 +99,6 @@ function Body({data, render}) {
 Table.Header = Header;
 Table.Body = Body;
 Table.Row = Row;
+Table.Footer = Footer;
 
 export default Table;
