@@ -54,5 +54,7 @@ PROJECT UI WALKTHROUGH : https://drive.google.com/file/d/1eARS-l-FArRq2tsBvsOOvC
 
 LIVE URL : https://cabincozy.netlify.app/login
 
-
+TEST USER : 
+**user : new@new.com
+password : 12345678**
 
