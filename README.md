@@ -36,18 +36,14 @@ Copy code
 git clone https://github.com/PRAVUNITDGP/cozy-cabin.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd cozy-cabin
+
 Install dependencies:
 
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
 npm run dev
 Access the application at http://localhost:3000 in your web browser.
 
