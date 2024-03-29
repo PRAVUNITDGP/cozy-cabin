@@ -49,3 +49,10 @@ Access the application at http://localhost:3000 in your web browser.
 
 
 ------
+
+PROJECT UI WALKTHROUGH : https://drive.google.com/file/d/1eARS-l-FArRq2tsBvsOOvC-lnQYPO0As/view?usp=sharing
+
+LIVE URL : https://cabincozy.netlify.app/login
+
+
+
