@@ -1,8 +1,51 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Hotel Management Application**
+This is a custom-built application for managing hotel bookings, cabins, and guests. It provides a comprehensive solution for hotel management needs, offering features such as booking management, cabin allocation, guest information handling, and more.
 
-Currently, two official plugins are available:
+**Features**
+Booking Management: Efficiently manage hotel bookings, including reservations, cancellations, and modifications.
+Cabin Management: Keep track of available cabins, assign cabins to guests, and handle cabin maintenance schedules.
+Guest Information: Store and manage guest information securely, including contact details, preferences, and stay history.
+Real-Time Data Fetching: Utilizes RTK Query for seamless real-time data fetching and updates.
+User Authentication: User authentication and authorization are handled securely using Supabase, ensuring access control and data privacy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Dependencies**
+React: Frontend user interface is built using React library.
+Vite: Build tool used for fast and efficient development.
+DevDependencies
+@types/react: Type definitions for React.
+@types/react-dom: Type definitions for ReactDOM.
+@vitejs/plugin-react: Vite plugin for React support.
+eslint: Linter for ensuring code quality and consistency.
+eslint-plugin-react: ESLint plugin for React-specific linting rules.
+eslint-plugin-react-hooks: ESLint plugin for React Hooks linting rules.
+eslint-plugin-react-refresh: ESLint plugin for React Refresh specific linting rules.
+Usage
+
+**To run the application locally, follow these steps:**
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/PRAVUNITDGP/cozy-cabin.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd cozy-cabin
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm run dev
+Access the application at http://localhost:3000 in your web browser.
+
+
+------
