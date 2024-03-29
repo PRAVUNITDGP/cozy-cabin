@@ -11,12 +11,16 @@ Real-Time Data Fetching: Utilizes RTK Query for seamless real-time data fetching
 User Authentication: User authentication and authorization are handled securely using Supabase, ensuring access control and data privacy.
 
 **Dependencies**
+
 React: Frontend user interface is built using React library.
 Vite: Build tool used for fast and efficient development.
-DevDependencies
+
+**DevDependencies**
+
 @types/react: Type definitions for React.
 @types/react-dom: Type definitions for ReactDOM.
 @vitejs/plugin-react: Vite plugin for React support.
+
 eslint: Linter for ensuring code quality and consistency.
 eslint-plugin-react: ESLint plugin for React-specific linting rules.
 eslint-plugin-react-hooks: ESLint plugin for React Hooks linting rules.
